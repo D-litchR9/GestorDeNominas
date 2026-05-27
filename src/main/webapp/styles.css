@@ -1,0 +1,33 @@
+.container {
+    max-width: 1400px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.tabla-principal {
+    margin-top: 20px;
+}
+
+.columna-final {
+    background-color: #f0f9f0 !important;
+}
+
+.texto-final {
+    font-weight: bold;
+    color: #2d6a2d;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 30px;
+}
+
+.fieldset-crear, .fieldset-editar {
+    margin-bottom: 30px;
+}
